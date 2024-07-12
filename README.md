@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is John (he/him). I’m an Associate Professor in Knowledge Integration (an interdiciplinary Arts & Sciences plus program) and Sociology & Legal Studies at the University of Waterloo. I work primarily in the areas of computational social science, network science, and cognitive social science.
+
+My current research addresses three broad and longstanding themes that cut across the social, cognitive, and computational/statistical sciences. First, I am developing generative models of schematic cognition, social influence, and cultural learning to deepen our knowledge of how latent opinions, identities, beliefs, and behaviors form and co-evolve, and to better measure polarization and large-scale cultural change. In developing these models, I am primarily focused on culture related to (a) climate change and environmental policy; (a) harm reduction initiatives and public health responses to the toxic drug supply and overdose crisis; (c) generative artificial intelligence; (d) privacy, security, and surveillance; and (e) lifestyle preferences and politics. Second, I am using these models as digital ’laboratories’ (of a sort) to better understand the workings and impacts of coordinated information operations such as disinformation campaigns and censorship on populations. Third, I am using data from social media platforms to better understand the role of emotional dynamics and identity-related processes in online political discussions. I approach each of these projects as a computational social scientist with expertise in network science and social network analysis, probabilistic and generative modelling, and computational text analysis.
+
+You can learn more about my work at [johnmclevey.com](https://www.johnmclevey.com).
+
 <!--
 **mclevey/mclevey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
